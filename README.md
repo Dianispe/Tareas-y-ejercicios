@@ -1,2 +1,3 @@
 # Tareas-y-ejercicios
-simulación 2
+Simulación 2
+¡Qué difícil es usa github!
